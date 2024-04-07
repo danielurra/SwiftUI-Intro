@@ -6,5 +6,7 @@ Prior to `SwiftUI`, we were using `UIKit`, an imperative framework introduced by
 to build user interfaces. It is still available, but it is slowly being replaced, since Apple shifted<br>
 the focus to SwiftUI.<br>
 ## Declarative Programming
-SwiftUI is Apple's new native framework implementing `Declarative Programming`
+SwiftUI is Apple's new native framework implementing `Declarative Programming`<br>
+**Declarative Programming** is a style of programming in which we describe, or `declare` the desired results<br>
+without explicity coding out the commands or steps that must be performed.
 
