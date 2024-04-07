@@ -17,3 +17,6 @@ by giving a:
 * A `.foregroundColor` modifier
 * A variable marked with the `@State` wrapper
 
+We can perfectly say that `Declarative Programming` focuses on `What` to do, in contrast `Imperative Programming`<br>
+focuses in `How` the programm should achieve the desired result.
+
