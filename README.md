@@ -19,4 +19,10 @@ by giving a:
 
 We can perfectly say that `Declarative Programming` focuses on `What` to do, in contrast `Imperative Programming`<br>
 focuses in `How` the programm should achieve the desired result.
+## Code once and deploy in any other Apple plarform
+One big bonus of SwiftUI is that you code only one time and your code will work in other Apple's platforms:<br>
+* iOS
+* macOS
+* tvOS
+* watchOS
 
