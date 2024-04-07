@@ -8,5 +8,12 @@ the focus to SwiftUI.<br>
 ## Declarative Programming
 SwiftUI is Apple's new native framework implementing `Declarative Programming`<br>
 **Declarative Programming** is a style of programming in which we describe, or `declare` the desired results<br>
-without explicity coding out the commands or steps that must be performed.
+without explicity coding out the commands or steps that must be performed.<br>
+![declarative programming](https://github.com/danielurra/SwiftUI-Intro/assets/51704179/67346e11-324b-4916-9dac-e9b138784de4)
+
+For example if I have a font view and I want to make the font bigger, I just tell(delcare) swiftUI that's what I want to be done<br>
+by giving a:
+* A `.font` modifier
+* A `.foregroundColor` modifier
+* A variable marked with the `@State` wrapper
 
